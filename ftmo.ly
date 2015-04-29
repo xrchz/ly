@@ -2,7 +2,7 @@
 \header {
   title = "From This Moment On (Chorus)"
   composer = "Shania Twain"
-  arranger = "arranged by Ramana Kumar"
+  arranger = "arranged by Ramana Kumar and Cangxiong Chen"
   copyright = "Creative Commons Attribution-ShareAlike 4.0"
 }
 
@@ -12,7 +12,28 @@ VlnI =
   \key g \major
   \partial 16 d16 |
   d8 g16 g ~ g8 a16 a ~ a8 b16 b ~ b8 d, |
-  e2. r8 g8 |
+  e4 ( ~ e16 d16 c8) r4 r8 g'8 | g fis16 fis ~ fis8
+  e16 e ~ e8 d16 d ~ d8 c8 | c b16 d ~ d4 r2 |
+  d8 g16 g ~ g8 a16 a ~ a8 b16 b ~ b8 d, |
+  e4 ( ~ e16 d16 c8) r4 d8 b'8 ~ | b2. g8 b  ( ~ |
+  b2 ~ b16 a g8 ) g b ~ | b2. g8 b  ( ~ | b4. a8 ~ a4 )
+  cis,8 d |
+  \key a \major
+  e8 a,8 r8. a16 e'8 d8 cis8 b8 ~ | b4 cis8 b8 |
+  a8  fis'4. ( ~ fis16 e16 d8 ) r8 e8 |
+  e8 fis8 e8 gis8 ( ~ gis16 fis16 e8 ) fis8 gis16
+  a16 ~ | a8 d,4. a'8 gis8 fis8 e8 ~ ( | e16 d16
+  cis4. ) | e8 d4. cis8 b4 a8 ~ | a2. r4 |
+  r1 | r1 | r1 | r1 \bar "||"
+  e'8 a16 a16 ~ a8 b16 b16 ~ b8 cis16 cis16 ~
+  cis8 e,8 | fis4 ~ ( fis16 e16 d8 ) r4 r8 a'8 |
+  a8 gis16 gis16 ~ gis8 fis16 fis16 ~ fis8 e16
+  e16 ~ e8 d8 | d8 cis16 e16 ~ e4 r2 |
+  e8 a16 a16 ~ a8 b16 b16 ~ b8 cis16 cis16 ~
+  cis8 e,8 | fis4 ~ ( fis16 e16 d8 ) r4 e8
+  cis' ~ | cis2.  a8 cis8 ~ ( | cis2 ~ cis16
+  b16 a8 ) a8 cis8 ~ | cis2. a8 cis8 ( ~ |
+  cis4. b8 ~ b2 ) | b2 b2 |
 }
 
 VlnII =
@@ -37,12 +58,29 @@ Vlc =
 \relative c {
   \clef bass
   \key g \major
-  \partial 16 r16 |
+    \partial 16 r16 |
   g2. a4 |
-  c1 |
+  c1 | fis,1 | g2 e8 a4 g8~ | g2 a4 b |
+  c4. c8 c2 | e,4. e8 e2 | c4. c8 c2 |
+  g'4. g8 g2 | d4. a'8 d,4 r4 |
+  \key a \major
+    a'4. a8 a4. e8 ~ |
+  \time 2/4
+    e2 |
+  \time 4/4
+    d4. d8 d2| e4. e8 e2| d4. d8 d2 |
+  \time 2/4
+    a'2|
+  \time 4/4
+    b4. fis8 e2 | d2 d4 e4 | a4. a8 a4.
+    a16 gis16 | fis4. fis8 fis4. fis16 e16 |
+    d4. d8 d2 | e4. e8 e8. b'16 e8 b8 |
+    a4. a8 a2 | d,4. d8 d2 | e4. e8 e2 |
+    a2 fis8 b4 a8 ~ | a2 b4 cis4 |
+    d,4. d8 d2 | fis4. fis8 fis2 | d4. d8 d2 |
+    a'4. a8 a2 | e4. e8 e2 | r1 |
 }
 
-#(define output-suffix "score")
 \book{
   \score {
     \new StaffGroup <<
