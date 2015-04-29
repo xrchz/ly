@@ -19,11 +19,18 @@ VlnI =
   b2 ~ b16 a g8 ) g b ~ | b2. g8 b  ( ~ | b4. a8 ~ a4 )
   cis,8 d |
   \key a \major
-  e8 a,8 r8. a16 e'8 d8 cis8 b8 ~ | b4 cis8 b8 |
+  e8 a,8 r8. a16 e'8 d8 cis8 b8 ~ |
+  \time 2/4
+  b4 cis8 b8 |
+  \time 4/4
   a8  fis'4. ( ~ fis16 e16 d8 ) r8 e8 |
-  e8 fis8 e8 gis8 ( ~ gis16 fis16 e8 ) fis8 gis16
-  a16 ~ | a8 d,4. a'8 gis8 fis8 e8 ~ ( | e16 d16
-  cis4. ) | e8 d4. cis8 b4 a8 ~ | a2. r4 |
+  e8 fis8 e8 gis8 ~
+  ( gis16 fis16 e8 ) fis8 gis16
+  a16 ~ | a8 d,4. a'8 gis8 fis8 e8 ~ ( |
+  \time 2/4
+  e16 d16 cis4. ) |
+  \time 4/4
+  e8 d4. cis8 b4 a8 ~ | a2. r4 |
   r1 | r1 | r1 | r1 \bar "||"
   e'8 a16 a16 ~ a8 b16 b16 ~ b8 cis16 cis16 ~
   cis8 e,8 | fis4 ~ ( fis16 e16 d8 ) r4 r8 a'8 |
@@ -43,6 +50,14 @@ VlnII =
   \partial 16 r16 |
   r2 r8 r16 d16 ~ d8 r8 |
   d4 d d d |
+  d2 r |
+  g, r |
+  d'8 g16 g ~ g8 a16 a ~ a8 b16 b ~ b8 d, |
+  d2. d8 g ~ |
+  g4 e fis g8 g8 ~ |
+  g4 e fis g8 g8 ~ |
+  g4 g a g8 g ~ |
+  g4. fis8 fis4 r |
 }
 
 Vla =
@@ -52,6 +67,14 @@ Vla =
   \partial 16 r16 |
   b2 r |
   g4 g g g |
+  a2 r |
+  g e8 a4 g8 |
+  b8 b16 b ~ b8 c16 c ~ c8 d16 d ~ d8 g, |
+  g2. b8 d ~ |
+  d4 g, a b8 < d e>8 ~ |
+  < d e>4 g, a b8 d ~ |
+  d4 b c d8 d ~ |
+  d4. d8 d4 r |
 }
 
 Vlc =
