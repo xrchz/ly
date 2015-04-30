@@ -2,7 +2,7 @@
 \header {
   title = "From This Moment On (Chorus)"
   composer = "Shania Twain"
-  arranger = "arranged by Ramana Kumar and Cangxiong Chen"
+  arranger = "arranged by Cangxiong Chen and Ramana Kumar"
   copyright = "Creative Commons Attribution-ShareAlike 4.0"
 }
 
