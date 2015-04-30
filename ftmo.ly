@@ -102,6 +102,21 @@ Vla =
   \time 4/4
   cis8 b4. a8 gis4 fis8 ~ |
   fis8. r16 r4 r4 d' |
+  cis2. r4 |
+  r1 |
+  d1 |
+  r2. gis4 |
+  cis,8 a'16 cis, ~ cis8 b'16 cis, ~ cis8 cis'16 e, ~ e8 e |
+  a,4 ~ a8. a16 a8 a4 r8 |
+  b gis'16 b, ~ b8 fis'16 b, ~ b8 e16 b ~ b8 d |
+  a2 fis8 b4 a8 |
+  cis8 cis16 cis ~ cis8 d16 d ~ d8 e16 e ~ e8 a, |
+  a4 ~ a16 gis fis8 a4 cis8 e ~ |
+  e4 a, b cis8 e ~ |
+  e4 a, b cis8 e ~ |
+  e4 cis d e8 e ~ |
+  e4. e8 ~ e4 e |
+  r1 |
 }
 
 Vlc =
