@@ -58,6 +58,20 @@ VlnII =
   g4 e fis g8 g8 ~ |
   g4 g a g8 g ~ |
   g4. fis8 fis4 r |
+  \key a \major
+  e8 a,8 ~ a8. a16 e'8 d8 cis8 b8 ~ |
+    \time 2/4
+  b4 cis8 b8 | 
+  \time 4/4
+  a8 fis'4. ~ fis4. e8 | e8 fis8 e8 gis8 ~ gis16 fis16
+  e8 fis8 gis16 a16 ~ | a8 d,4. a'8 gis8 fis8 e8 ~ |
+  \time 2/4
+  e16 d16 cis4. |
+  \time 4/4
+  e8 d4. cis8 b4 a8 ~ | a8. e'16 ~ e8 a8 ~ a16 e8. 
+  a4 | a2. a16 e'16 e fis | cis2 e,4. b'16 a16 |
+  gis8 a16 fis ~ fis2. | r16 e'16 gis a gis e gis a
+  b4 e,4 \bar "||"
 }
 
 Vla =
