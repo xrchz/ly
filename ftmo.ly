@@ -30,7 +30,7 @@ VlnI =
   \time 2/4
   e16 d16 cis4. ) |
   \time 4/4
-  e8 d4. cis8 b4 a8 ~ | a2. r4 |
+  e8 d4. cis8 b4 a8 ~ | a2. fis'4 |
   r1 | r1 | r1 | r1 \bar "||"
   e'8 a16 a16 ~ a8 b16 b16 ~ b8 cis16 cis16 ~
   cis8 e,8 | fis4 ~ ( fis16 e16 d8 ) r4 r8 a'8 |
@@ -59,11 +59,11 @@ VlnII =
   g4 g a g8 g ~ |
   g4. fis8 fis4 r |
   \key a \major
-  e8 a,8 ~ a8. a16 e'8 d8 cis8 b8 ~ |
+  cis8 a8 ~ a8. a16 e'8 d8 cis8 b8 ~ |
     \time 2/4
   b4 cis8 b8 | 
   \time 4/4
-  a8 fis'4. ~ fis4. e8 | e8 fis8 e8 gis8 ~ gis16 fis16
+  a8 fis'4. ~ fis4. e8 | b8 fis'8 e8 e8 ~ e16 fis16
   e8 fis8 gis16 a16 ~ | a8 d,4. a'8 gis8 fis8 e8 ~ |
   \time 2/4
   e16 d16 cis4. |
@@ -89,6 +89,19 @@ Vla =
   < d e>4 g, a b8 d ~ |
   d4 b c d8 d ~ |
   d4. d8 d4 r |
+  \key a \major
+  b8 a ~ a8. a16 cis8 b8 a8 gis8 ~ |
+  \time 2/4
+  gis4 a8 gis |
+  \time 4/4
+  fis8 d'4. ~ d4. b8 |
+  gis cis b b ~ b16 cis b8 d8 e16 fis16 ~ |
+  fis8 a,4. fis'8 e d cis ~ |
+  \time 2/4
+  cis16 b a4. |
+  \time 4/4
+  cis8 b4. a8 gis4 fis8 ~ |
+  fis8. r16 r4 r4 d' |
 }
 
 Vlc =
