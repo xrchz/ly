@@ -72,6 +72,14 @@ VlnII =
   a4 | a2. a16 e'16 e fis | cis2 e,4. b'16 a16 |
   gis8 a16 fis ~ fis2. | r16 e'16 gis a gis e gis a
   b4 e,4 \bar "||"
+  e,8 a16 a ~ a8 b16 b ~ b8 cis16 cis ~ cis8 e,8 |
+  fis4 ~ fis8. e16 e8 fis4 a8|
+  a8 gis16 gis ~ gis8 fis16 fis ~ fis8 e16 e ~ e8 d8 |
+  d cis16 e16 ~ e4 r2 |
+  e8 a16 a ~ a8 b16 b ~ b8 cis16 cis ~ cis8 e,8 |
+  fis4 ~ fis8. e16 fis4 e8 cis'8 ~ | cis4 fis,4 gis4 a8 cis8
+  ~ | cis4 fis,4 gis a8 cis8 ~ | cis4 a4 b4 a8 cis8 ~ |
+  cis4. b8 ~ b4 gis4 | b2 b2 \bar "||"
 }
 
 Vla =
@@ -102,21 +110,6 @@ Vla =
   \time 4/4
   cis8 b4. a8 gis4 fis8 ~ |
   fis8. r16 r4 r4 d' |
-  cis2. r4 |
-  r1 |
-  d1 |
-  r2. gis4 |
-  cis,8 a'16 cis, ~ cis8 b'16 cis, ~ cis8 cis'16 e, ~ e8 e |
-  a,4 ~ a8. a16 a8 a4 r8 |
-  b gis'16 b, ~ b8 fis'16 b, ~ b8 e16 b ~ b8 d |
-  a2 fis8 b4 a8 |
-  cis8 cis16 cis ~ cis8 d16 d ~ d8 e16 e ~ e8 a, |
-  a4 ~ a16 gis fis8 a4 cis8 e ~ |
-  e4 a, b cis8 e ~ |
-  e4 a, b cis8 e ~ |
-  e4 cis d e8 e ~ |
-  e4. e8 ~ e4 e |
-  r1 |
 }
 
 Vlc =
