@@ -72,6 +72,14 @@ VlnII =
   a4 | a2. a16 e'16 e fis | cis2 e,4. b'16 a16 |
   gis8 a16 fis ~ fis2. | r16 e'16 gis a gis e gis a
   b4 e,4 \bar "||"
+  e,8 a16 a ~ a8 b16 b ~ b8 cis16 cis ~ cis8 e,8 |
+  fis4 ~ fis8. e16 e8 fis4 a8|
+  a8 gis16 gis ~ gis8 fis16 fis ~ fis8 e16 e ~ e8 d8 |
+  d cis16 e16 ~ e4 r2 |
+  e8 a16 a ~ a8 b16 b ~ b8 cis16 cis ~ cis8 e,8 |
+  fis4 ~ fis8. e16 fis4 e8 cis'8 ~ | cis4 fis,4 gis4 a8 cis8
+  ~ | cis4 fis,4 gis a8 cis8 ~ | cis4 a4 b4 a8 cis8 ~ |
+  cis4. b8 ~ b4 gis4 | b2 b2 \bar "||"
 }
 
 Vla =
